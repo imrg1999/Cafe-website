@@ -5,3 +5,34 @@
     box-sizing: border-box;
      font-family: "Poppins", sans-serif;
 }
+
+:root{
+    /*colors*/
+    --white-color: #fff;
+    --black-color: #000;
+    --primary-color: #fcb045;
+    --light-blue-color: #4a82be;
+    --light-pink-color:#c7919a;
+    --medium-gray-color: #ccc;
+
+    /*font-size*/
+    --font-size-s: 0.9rem;
+    --font-size-n: 1rem;
+    --font-size-m: 1.12rem;
+    --font-size-l: 1.5rem;
+    --font-size-xl: 2rem;
+    --font-size-xxl: 2.25rem;
+
+    /*font-weight*/
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semi-bold: 600;
+
+    /*border-radius*/
+    --border-radius-s: 8px;
+    --border-radius-m: 30px;
+    --border-radius-circle: 50%;
+
+    /*site max width*/
+    --site-max-width: 1300px;
+}
