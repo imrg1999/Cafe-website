@@ -41,3 +41,31 @@ header{
 background: var(--primary-color);
 }
 
+header .navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.navbar .nav-logo .logo-text {
+    color: var(--white-color);
+    
+}
+
+.navbar .nav-menu .nav-link {
+    color: var(--white-color);
+}
+
+.navbar .nav-menu{
+    display: flex;
+    gap: 15px;
+}
