@@ -89,3 +89,13 @@ a{
     color: var(--primary-color);
     background-color: var(--secondary-color);
 }
+
+img{
+    width: 100%;
+}
+
+button{
+    cursor: pointer;
+    border: none;
+    background: none;
+}
